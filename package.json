@@ -1,0 +1,22 @@
+{
+  "name": "js-native-methods",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lxs24sxl/js-native-methods.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lxs24sxl/js-native-methods/issues"
+  },
+  "homepage": "https://github.com/lxs24sxl/js-native-methods#readme",
+  "devDependencies": {
+    "@types/node": "^12.7.5"
+  }
+}
